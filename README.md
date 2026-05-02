@@ -12,7 +12,13 @@ The font family includes 4 weights and styles. Each consists of a printer font f
 | **Bold** | c0583bt_.pfb | c0583bt_.afm |
 | **Bold Italic** | c0611bt_.pfb | c0611bt_.afm |
 
-The original source files are located in the [Type1/](./Type1/) directory.
+The original source files are located in the [`Type1/`](./Type1/) directory.
+
+### Showcase
+
+| Roman | Italic | Bold | Bold Italic |
+| :---: | :---: | :---: | :---: |
+| ![Roman](./showcase/c0419bt_.png) | ![Italic](./showcase/c0582bt_.png) | ![Bold](./showcase/c0583bt_.png) | ![Bold Italic](./showcase/c0611bt_.png) |
 
 ### Prerequisites
 
@@ -46,7 +52,7 @@ uv run convert_web.py
 uv run convert_ttf.py
 ```
 
-Outputs will be saved in the [dist/](./dist/) directory.
+Outputs will be saved in the [`dist/`](./dist/) directory.
 
 ### Web Integration
 
@@ -54,7 +60,7 @@ Running `convert_web.py` generates the WOFF2 files. To use them on the web, reme
 
 ### License
 
-These fonts are provided under the Bitstream Charter Font License. See the [LICENSE](./Type1/LICENSE) file for details.
+These fonts are provided under the Bitstream Charter Font License. See the [`LICENSE`](./Type1/LICENSE) file for details.
 
 Additional PostScript Type 1 fonts can be found in sources like [Arch Linux Packages](https://archlinux.org/packages/extra/any/xorg-fonts-type1/).
 
