@@ -18,7 +18,7 @@ The original source files are located in the [`Type1/`](./Type1/) directory.
 
 | Roman | Italic | Bold | Bold Italic |
 | :---: | :---: | :---: | :---: |
-| <img src="./showcase/c0419bt_.png" width="200"> | <img src="./showcase/c0582bt_.png" width="200"> | <img src="./showcase/c0583bt_.png" width="200"> | <img src="./showcase/c0611bt_.png" width="200"> |
+| ![Roman](./showcase/c0419bt_.png) | ![Italic](./showcase/c0582bt_.png) | ![Bold](./showcase/c0583bt_.png) | ![Bold Italic](./showcase/c0611bt_.png) |
 
 ### Prerequisites
 
