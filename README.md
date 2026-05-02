@@ -25,7 +25,7 @@ The original source files are located in the [`Type1/`](./Type1/) directory.
 The conversion scripts require `fontforge`. You can install it via your package manager:
 
 ```bash
-# macOS or Linux if you installed homebrew
+# macOS or Linux if you have installed homebrew
 brew install fontforge
 # Debian or Ubuntu
 sudo apt install fontforge
